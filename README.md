@@ -1,5 +1,7 @@
 ## Intervallic Pair Quantizer
 
+![IPQ](images/IPQ Screenshot.png)
+
 This module quantizes the input according to Interval1 -> Interval 2 -> 1 -> 2 -> etc...
 Each possible pair of intervals creates a unique sound which is hard to obtain via 'scale based' quantizers.
 
