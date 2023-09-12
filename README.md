@@ -1,6 +1,6 @@
 ## Intervallic Pair Quantizer
 
-![](https://github.com/CuteFoxModules/CuteFoxModules/tree/master/images/IPQ.png)
+![IPQ](https://github.com/CuteFoxModules/CuteFoxModules/tree/master/images/IPQ.jpg)
 
 This module quantizes the input according to Interval1 -> Interval 2 -> 1 -> 2 -> etc...
 Each possible pair of intervals creates a unique sound which is hard to obtain via 'scale based' quantizers.
