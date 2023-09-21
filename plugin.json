@@ -17,7 +17,7 @@
       "slug": "IPQ",
       "name": "Intervallic Pair Quantizer",
       "description": "Quantizer based on a pair of intervals from 0 to 11 (semitones)",
-      "tags": ["Quantizer]
+      "tags": ["Quantizer"]
     }
   ]
 }
